@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbioinfo_book=self.webpackChunkbioinfo_book||[]).push([[1510],{558:o=>{o.exports=JSON.parse('{"label":"docusaurus","permalink":"/bioinfo-book/blog/tags/docusaurus","allTagsPath":"/bioinfo-book/blog/tags","count":4}')}}]);
