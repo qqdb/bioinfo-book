@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbioinfo_book=self.webpackChunkbioinfo_book||[]).push([[6945],{6945:(o,b,k)=>{k.r(b)}}]);

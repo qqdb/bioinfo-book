@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbioinfo_book=self.webpackChunkbioinfo_book||[]).push([[9503],{7804:o=>{o.exports=JSON.parse('{"permalink":"/bioinfo-book/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

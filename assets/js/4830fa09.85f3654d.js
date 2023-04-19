@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbioinfo_book=self.webpackChunkbioinfo_book||[]).push([[4223],{9708:o=>{o.exports=JSON.parse('{"permalink":"/bioinfo-book/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
